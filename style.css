@@ -1,0 +1,86 @@
+/*
+Theme Name: Curso WP
+Theme URI: https://alezuzzo.github.io/Site-Artemis/
+Description: Site Para o curso de Wp
+Author: Thalles
+Author URI: https://alezuzzo.github.io/Site-Artemis/
+Version: 1.0
+*/
+
+body{
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	font-family: 'Dancing Script', cursive;
+}
+
+
+/* HEADER NAVBAR */
+.nav-wrapper{
+	background-color: rgb(244,164,96);
+}
+/* DIV HEADER */
+
+.header{
+	height: 1024px;
+	background: url(assets/images/headerimg.jpg) center top;
+	padding: 10px 0;
+}
+
+.header h1 {
+	margin: 0;
+}
+
+.header h1 a{
+	color: #fff;
+	text-decoration: none;
+
+}
+
+.header .info{
+	margin: 0 auto;
+	width: 860px;
+	text-align: center;
+	font-size: 25px;
+}
+
+.header .custom-button {
+	border: .07rem solid black;
+	border-radius: 30px;
+	border-color: #fff;
+	background-color: #fff;
+	border-width: 6px;
+	color: crimson;
+}
+
+.background{
+	margin-top: 0 auto;
+}
+
+/* DIV WRAP */
+
+.wrap{
+	margin: 0 auto;
+	width: 960px;
+	text-align: center;
+}
+
+
+
+/* HEADER NAVBAR */
+
+header .brand-logo{
+	margin-left: 10px;
+}
+
+/* Sidenav */
+
+.sidenav-1{
+	background-color: rgba(244,164,96, 0.616);
+	margin-top: 700px;
+}
+
+.SIDE{
+	text-align: center;
+	background-color: rgba(244,164,96, 0.8);
+}
